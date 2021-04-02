@@ -3,7 +3,7 @@
  <h1 align="center">WELCOME TO PROGRAMMING WORLD!</h1>
 <p align="center">
 	<a href="mailto:programminggworld@gmail.com" align="center">Send Email</a> |
-	<a href="https://pavankalyannvs.github.io/">Website</a>
+	<a href="programmingworld-dev.github.io/">Website</a>
 
 </p>
 
